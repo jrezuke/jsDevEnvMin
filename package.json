@@ -1,0 +1,14 @@
+{
+  "name": "js_dev_env",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'Joe_Rezuke'",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.15.2",
+    "open": "0.0.5"
+  }
+}
